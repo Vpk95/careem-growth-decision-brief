@@ -34,7 +34,7 @@ No external dataset is required. The prototype intentionally uses synthetic data
 **Prototype:** https://careem-growth-decision-brief.streamlit.app/
 **Repository:** https://github.com/Vpk95/careem-growth-decision-brief
 **Dataset:** Synthetic dataset included in repository
-**Summary:** See `100_WORD_SUMMARY.txt`
+**Summary:**  `100_WORD_SUMMARY.txt`
 
 
 “I deliberately kept the metric calculations deterministic and auditable. AI should improve the reasoning and communication layer, but it should not invent numbers. That separation makes the system safer for business decisions.”
