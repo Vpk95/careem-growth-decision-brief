@@ -2,7 +2,7 @@
 
 **Chosen challenge: #1 Decision Brief Generator**
 
-### One-line pitch
+### One-liner
 **From performance data to the next business decision — with evidence, prioritisation and an experiment plan.**
 
 ## Demo
@@ -16,8 +16,6 @@ Files:
 - `CASE_STUDY.md` — product rationale
 - `100_WORD_SUMMARY.txt` — application submission copy
 
-## Deploy
-Create a public GitHub repository, upload the files, then deploy `app.py` through Streamlit Community Cloud.
 
 ## What the app demonstrates
 - Executive KPI dashboard
@@ -29,14 +27,14 @@ Create a public GitHub repository, upload the files, then deploy `app.py` throug
 - Experiment recommendation
 - Synthetic-data safety
 
-## Suggested public dataset statement
+## Public dataset statement
 No external dataset is required. The prototype intentionally uses synthetic data to avoid confidential information.
 
-## Suggested submission
-**Prototype:** [your Streamlit URL]
-**Repository:** [your GitHub URL]
+## Submission
+**Prototype:** https://careem-growth-decision-brief.streamlit.app/
+**Repository:** https://github.com/Vpk95/careem-growth-decision-brief
 **Dataset:** Synthetic dataset included in repository
 **Summary:** See `100_WORD_SUMMARY.txt`
 
-## Interview talking point
+
 “I deliberately kept the metric calculations deterministic and auditable. AI should improve the reasoning and communication layer, but it should not invent numbers. That separation makes the system safer for business decisions.”
